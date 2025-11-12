@@ -24,7 +24,7 @@ class TestFile(unittest.TestCase):
         send_message_by_time(who='程序员晚枫', message='你好', time='17:38')
 
     def test_send_message(self):
-        send_message(who='晚枫', message='你好')
+        send_message(who='程序员晚枫', message='你好')
 
     def test_chat_by_gpt(self):
         chat_by_gpt(who='程序员晚枫')

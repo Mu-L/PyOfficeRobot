@@ -221,6 +221,6 @@ if __name__ == "__main__":
     # num_list = ['CoderWanFeng']
     num_notes = {
         # 'CoderWanFeng': '北京-晚枫-学生',
-        'hdylw1024': '上海-晚枫-乞丐',
+        'wfdev7': '上海-晚枫-乞丐',
     }
     add(msg=msg, num_notes=num_notes)

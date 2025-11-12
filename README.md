@@ -18,9 +18,9 @@
     	<a target="_blank" href='https://gitee.com/CoderWanFeng//PyOfficeRobot/'>
 		<img src='https://gitee.com/CoderWanFeng//PyOfficeRobot/badge/star.svg?theme=dark' alt='gitee star'/>
 	</a>
-  	<a href="https://mp.weixin.qq.com/s/yaSmFKO3RrBpyanW3nvRAQ">
-	<img src="https://img.shields.io/badge/QQ-163434413-orange"/>
-  </a>
+<a href="https://mp.weixin.qq.com/s/4Szn7qE3YkBU66amRgmAEw">
+  <img src="https://img.shields.io/badge/加入-AI编程训练营-red" alt="AI编程训练营">
+</a>
     	<a href="http://www.python4office.cn/wechat-group/">
 	<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E4%BA%A4%E6%B5%81%E7%BE%A4-brightgreen"/>
   </a>
@@ -29,7 +29,7 @@
 
 # 又一个微信聊天机器人横空出世了，人人可用！
 
-之前给大家分享过一个微信机器人：[一个15分钟的视频，教你用Python创建自己的微信聊天机器人！](http://t.cn/A66p30bI)
+之前给大家分享过一个微信机器人：[一个15分钟的视频，教你用Python创建自己的微信聊天机器人！](https://www.bilibili.com/video/BV1Q64y1Z7TB/)
 
 但是之前这个机器人，需要基于网页版才能用(有网页版微信的同学，还可以去继续用)；然而很多朋友的微信，是不能登录网页版微信的。
 
